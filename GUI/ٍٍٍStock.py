@@ -1,8 +1,4 @@
-"""
-    Author: Israel Dryer
-    Modified: 2021-12-12
-    Adapted from: http://www.leo-backup.com/screenshots.shtml
-"""
+
 from datetime import datetime
 from random import choices
 import ttkbootstrap as ttk
