@@ -1,2 +1,1 @@
 # stock-management
-# stock-management
